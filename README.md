@@ -1,2 +1,2 @@
 # gcli
-Go command line tools for practice purposes.
+Go command line tools for practice purposes
